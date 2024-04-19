@@ -1,0 +1,16 @@
+{
+  "webProject": {
+    "projectFile": "./ReminderApp.Web/ReminderApp.Web.csproj"
+  },
+  "dataProject": {
+    "projectFile": "./ReminderApp.Data/ReminderApp.Data.csproj"
+  },
+
+  "rootGenerator": "Vue",
+
+  "generatorConfig": {
+    "Scripts": {
+      "targetDirectory": "../src"
+    }
+  }
+}
